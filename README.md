@@ -34,8 +34,8 @@ Preview da interação:  <br>
 ### Links 
 <br>
 <ul>
-<li><a href="#" target="_blank"> Repositórios</a></li>
-<li><a href="#" target="_blank"> Site ao vivo</a></li>
+<li><a href="https://github.com/fernanda-nunes/acordeon" target="_blank"> Repositórios</a></li>
+<li><a href="https://fernanda-nunes.github.io/acordeon/" target="_blank"> Site ao vivo</a></li>
 </ul>
 <br>
 
