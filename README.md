@@ -6,7 +6,7 @@
 
 ###  Projeto 
 
-<b> O objetivo é desenvolver uma página com estrutura do tipo Arcondeon, como interação para expandir ou retrair os itens.
+<b>O objetivo é desenvolver uma página com estrutura do tipo Arcondeon, com interação para expandir ou retrair os itens.
 
 ###  Desafio
 
@@ -14,7 +14,7 @@
 
 ### Funcionalidades 
 <ul>
-<li>Ao clicar nos icones de setas, os itens (perguntas e respostas) devem expandir ou retrair</li>
+<li>Ao clicar nos icones de setas, os itens (perguntas e respostas) devem expandir ou retrair.</li>
 </ul>
 
 ### Capturas de tela 
@@ -29,7 +29,7 @@ Preview - mobile: <br>
 
 Preview da interação:  <br>
   <img src="./src/imagens/Preview-interação.png" width="90%">
-  <br><br>
+  <br>
 
 ### Links 
 <br>
